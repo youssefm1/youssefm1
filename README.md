@@ -9,6 +9,7 @@ Project software engineer at Lutron Electronics, specializing in API development
 * ✉️  You can contact me at [usef14uk@gmail.com](mailto:usef14uk@gmail.com)
 * 🚀  I'm currently working on GRID:LOCK - Static tetris-like game aimed at audiobook listeners!
 * 🧠  I'm currently learning SwiftUI, React, and more
+* 📖  I'm currently reading The Fellowship of the Ring by J.R.R. Tolkien, and I just finished Paradiso 17 by Hannah Lilith Assadi
 
 ---
 
